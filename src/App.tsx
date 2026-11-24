@@ -895,7 +895,7 @@ export default function App() {
 
           <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-white/50 gap-4">
             <p className="text-center sm:text-left">
-              &copy; 2025 Quillovate Editorial Consultancy. All rights reserved.
+              &copy; 2027 Quillovate Editorial Consultancy. All rights reserved.
             </p>
             <div className="flex flex-wrap items-center justify-center gap-5 sm:gap-6">
               <button

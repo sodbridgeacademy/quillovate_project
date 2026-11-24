@@ -263,7 +263,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     engagementContext: 'Monograph Refinement · Humanities',
     videoTitle: 'Elevating a 90,000-Word Monograph for University Press Review',
     videoDuration: '02:18',
-    videoDate: '18 Oct 2025',
+    videoDate: '18 Oct 2027',
     videoViews: '1,420 views',
     quote:
       '"Working with Quillovate transformed how my chapters held together conceptually. They never flattened my voice—they sharpened every transition until the editorial board approved the manuscript without structural revisions."',
@@ -276,7 +276,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     engagementContext: 'Multi-Stakeholder Whitepaper · Policy',
     videoTitle: 'Turning 140 Pages of Technical Research into Board-Ready Counsel',
     videoDuration: '01:54',
-    videoDate: '04 Nov 2025',
+    videoDate: '04 Nov 2027',
     videoViews: '980 views',
     quote:
       '"Quillovate distilled three separate research workstreams into a single cohesive whitepaper that our trustees and external partners immediately understood and acted upon."',
@@ -328,7 +328,7 @@ export const SESSIONS_VIDEOS: SessionVideo[] = [
   {
     id: 'session-monograph',
     category: 'Academic Research',
-    date: '14 Nov 2025',
+    date: '14 Nov 2027',
     views: '2,480 views',
     duration: '42:18',
     title: 'From Dissertation to Monograph: Re-architecting Scholarly Voice',
@@ -344,7 +344,7 @@ export const SESSIONS_VIDEOS: SessionVideo[] = [
   {
     id: 'session-policy-briefs',
     category: 'Executive Strategy',
-    date: '28 Oct 2025',
+    date: '28 Oct 2027',
     views: '1,910 views',
     duration: '36:05',
     title: 'Evidence Without Jargon: Writing Institutional Policy Briefs',
@@ -360,7 +360,7 @@ export const SESSIONS_VIDEOS: SessionVideo[] = [
   {
     id: 'session-citation-integrity',
     category: 'Publishing',
-    date: '11 Oct 2025',
+    date: '11 Oct 2027',
     views: '3,140 views',
     duration: '48:52',
     title: 'Citation Integrity & Ethical Boundaries in Contemporary Research',
@@ -376,7 +376,7 @@ export const SESSIONS_VIDEOS: SessionVideo[] = [
   {
     id: 'session-syntax-clarity',
     category: 'Editorial Craft',
-    date: '24 Sep 2025',
+    date: '24 Sep 2027',
     views: '1,640 views',
     duration: '31:12',
     title: 'The Discipline of the Sentence: Rhythm & Precision in Long-Form Prose',
@@ -392,7 +392,7 @@ export const SESSIONS_VIDEOS: SessionVideo[] = [
   {
     id: 'session-peer-review',
     category: 'Publishing',
-    date: '06 Sep 2025',
+    date: '06 Sep 2027',
     views: '2,095 views',
     duration: '39:44',
     title: 'Responding to Reviewer #2: Turning Critique into Publication',
@@ -408,7 +408,7 @@ export const SESSIONS_VIDEOS: SessionVideo[] = [
   {
     id: 'session-assignments-rigor',
     category: 'Academic Research',
-    date: '19 Aug 2025',
+    date: '19 Aug 2027',
     views: '2,870 views',
     duration: '29:30',
     title: 'Structuring High-Distinction Postgraduate Assignments & Essays',
@@ -427,7 +427,7 @@ export const POLICY_DOCUMENTS: Record<string, PolicyDocument> = {
   'editorial-code': {
     id: 'editorial-code',
     title: 'Editorial Code of Practice',
-    updated: '2025 Edition',
+    updated: '2027 Edition',
     sections: [
       {
         heading: 'Authorship & Scholarly Integrity',
@@ -444,7 +444,7 @@ export const POLICY_DOCUMENTS: Record<string, PolicyDocument> = {
   'privacy-notice': {
     id: 'privacy-notice',
     title: 'Privacy & Confidentiality Notice',
-    updated: '2025 Edition',
+    updated: '2027 Edition',
     sections: [
       {
         heading: 'Client & Manuscript Confidentiality',
@@ -461,7 +461,7 @@ export const POLICY_DOCUMENTS: Record<string, PolicyDocument> = {
   'terms-of-engagement': {
     id: 'terms-of-engagement',
     title: 'Terms of Engagement',
-    updated: '2025 Edition',
+    updated: '2027 Edition',
     sections: [
       {
         heading: 'Scope & Milestone Alignment',
@@ -478,7 +478,7 @@ export const POLICY_DOCUMENTS: Record<string, PolicyDocument> = {
   'intellectual-property': {
     id: 'intellectual-property',
     title: 'Intellectual Property Charter',
-    updated: '2025 Edition',
+    updated: '2027 Edition',
     sections: [
       {
         heading: '100% Client Ownership',
@@ -495,7 +495,7 @@ export const POLICY_DOCUMENTS: Record<string, PolicyDocument> = {
   'ethics-policy': {
     id: 'ethics-policy',
     title: 'Research & Editorial Ethics Policy',
-    updated: '2025 Edition',
+    updated: '2027 Edition',
     sections: [
       {
         heading: 'Conflict-of-Interest Screening',
