@@ -1,0 +1,6 @@
+{
+  "name": "Quillovate — Professional Writing & Editorial Consultancy",
+  "description": "Thoughtful writing, research support and editorial expertise for academic and professional communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

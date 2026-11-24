@@ -1,0 +1,39 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #022146;
+  --color-primary-gold: #B78438;
+  --color-pale-gold: #D9C6A2;
+  --color-warm-ivory: #F7F5F0;
+  --color-soft-stone: #E9E6DF;
+  --color-charcoal: #343A40;
+  --color-muted-grey: #6B7280;
+  --color-background-light: #F7F5F0;
+  --color-background-dark: #0B111A;
+
+  --font-serif: "Source Serif 4", Georgia, serif;
+  --font-sans: "Manrope", system-ui, sans-serif;
+  --font-display: "Source Serif 4", Georgia, serif;
+}
+
+@layer base {
+  body {
+    font-family: "Manrope", system-ui, sans-serif;
+    background-color: #F7F5F0;
+    color: #343A40;
+  }
+
+  .dark body {
+    background-color: #0B111A;
+    color: #E9E6DF;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: "Source Serif 4", Georgia, serif;
+  }
+
+  h1, h2 {
+    text-wrap: balance;
+  }
+}
